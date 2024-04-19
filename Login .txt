@@ -1,0 +1,9 @@
+Login :
+
+Admin
+Username : admin@gmail.com
+Password : admin
+
+Pegawai 
+username : pegawai@gmail.com
+Pass     : pegawai
